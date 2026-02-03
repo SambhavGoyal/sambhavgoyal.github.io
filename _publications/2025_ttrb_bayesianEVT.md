@@ -6,7 +6,7 @@ permalink: /publication/2025_ttrb_bayesianEVT
 excerpt: "Uses hierarchical Bayesian EVT to quantify safety implications of exclusive motorcycle lanes on non-urban highways."
 date: 2025-01-02
 venue: "Transportmetrica B: Transport Dynamics"
-paperurl: ""
+paperurl: "https://doi.org/10.1080/21680566.2025.2491672"
 slidesurl: ""
 bibtexurl: ""
 citation: 'Saini, H. K., Goyal, S., &amp; Kathuria, A. (2025). &quot;A Bayesian hierarchical extreme value theory approach to investigate the safety implications of exclusive motorcycle lanes on non-urban highways.&quot; <i>Transportmetrica B: Transport Dynamics</i>, 13(1), 2491672.'
