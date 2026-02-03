@@ -295,6 +295,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # ADD HERE
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
 
 
 # Sass/SCSS
