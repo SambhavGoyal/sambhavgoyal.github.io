@@ -2,7 +2,7 @@
 title: "A Bayesian Hierarchical Extreme Value Theory Approach to Investigate the Safety Implications of Exclusive Motorcycle Lanes on Non-Urban Highways"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-02-tb-evt-motorcycle-lanes
+permalink: /publication/2025_ttrb_bayesianEVT
 excerpt: "Uses hierarchical Bayesian EVT to quantify safety implications of exclusive motorcycle lanes on non-urban highways."
 date: 2025-01-02
 venue: "Transportmetrica B: Transport Dynamics"
