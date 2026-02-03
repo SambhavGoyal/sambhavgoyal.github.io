@@ -13,7 +13,7 @@ title                    : "Traffic Enthusiast"
 title_separator          : "-"
 name                     : &name "Sambhav Goyal"
 description              : &description "Academic portfolio: traffic safety, VRU behaviour, IRL/EVT, mixed & less-organized traffic"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sambhavgoyal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://sambhavgoyal.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sambhavgoyal/sambhavgoyal.github.io"
@@ -282,7 +282,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: false
+      comments: false
   # _talks
   - scope:
       path: ""
